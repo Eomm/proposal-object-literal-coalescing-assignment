@@ -1,0 +1,27 @@
+{
+  "name": "proposal-object-literal-coalescing-assignment",
+  "version": "1.0.0",
+  "description": "A proposal to introduce new assignment forms for ECMAScript object literals",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manuel Spigolon <behemoth89@gmail.com> (https://github.com/Eomm)",
+  "funding": "https://github.com/Eomm/proposal-object-literal-coalescing-assignment?sponsor=1",
+  "homepage": "https://github.com/Eomm/proposal-object-literal-coalescing-assignment#readme",
+  "bugs": {
+    "url": "https://github.com/Eomm/proposal-object-literal-coalescing-assignment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eomm/proposal-object-literal-coalescing-assignment.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.0",
+    "tinybench": "^2.5.1"
+  }
+}
