@@ -33,7 +33,7 @@ Object.hasOwn(obj, 'b') // false
 
 ```js
 // Explicit string key
-const a = undefined, b = undefined;
+const a = undefined, b = undefined
 const obj = {
   a,
   b?
